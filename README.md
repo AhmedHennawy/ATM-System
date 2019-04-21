@@ -1,2 +1,4 @@
 # ATM-System
-simple console application with c++  and file structure let to user make many transaction in your balance.
+### c++ project
+simple project in console let to user make many transaction and calculate your balance and calculate the current time for this transaction and store this data in text files. 
+
